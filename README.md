@@ -1,4 +1,4 @@
-# -MySQL -python -Flask
+# 商品信息管理系统-MySQL -python -Flask
 适用于大作业以及课设
 基于python语言和MySQL，并结合Flask前端实现商品信息管理系统
 前后端分离
