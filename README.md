@@ -14,5 +14,7 @@ import os
 import pymysql
 需要导入上述库
 
+有需要的可以加qq：2317595392
+
 
 
